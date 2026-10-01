@@ -1,0 +1,4 @@
+Run through the steps for router lab attached. You will not have the same environment planned for training session, below are the modified steps….
+-	Step 1, WiFi environment is not available in your location, just use any another available WAN connection.
+-	Step 10, connect PC to same LAN as router WAN IP
+-	Step 20, connect PC to same LAN as router WAN IP

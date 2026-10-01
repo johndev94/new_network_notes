@@ -1,0 +1,2 @@
+- Check with another device (Link speed)
+- 

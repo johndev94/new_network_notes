@@ -1,0 +1,4 @@
+https://www.draytek.com/support/knowledge-base/7462
+
+Goto: 46:00
+https://www.google.com/search?q=draytek+vpn&client=firefox-b-d&sca_esv=813765718ccf2407&channel=entpr&udm=7&biw=1920&bih=919&ei=TxdIaICiLp_ThbIPgO-R8AY&ved=0ahUKEwjAhdOt4OaNAxWfaUEAHYB3BG4Q4dUDCBA&uact=5&oq=draytek+vpn&gs_lp=EhZnd3Mtd2l6LW1vZGVsZXNzLXZpZGVvIgtkcmF5dGVrIHZwbjILEAAYgAQYkQIYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMggQABiABBiiBDIIEAAYgAQYogRI2CdQnARYuiZwAXgAkAEAmAF5oAH9BqoBBDEwLjG4AQPIAQD4AQGYAgygAuIHwgIGEAAYBxgewgIEEAAYHsICDhAAGIAEGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICChAAGIAEGEMYigXCAgsQABiABBixAxiKBZgDAIgGAZIHBDEwLjKgB_U6sgcDOS4yuAfXB8IHBzAuMS42LjXIB1I&sclient=gws-wiz-modeless-video#fpstate=ive&vld=cid:8041d241,vid:o-VckTCeTYA,st:0

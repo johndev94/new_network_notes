@@ -1,0 +1,1 @@
+Mak sure all antennas are connected, and ask the customer to Disable Ping to Keepalive on the WAN 5G. If this does not work, then we need to collect the WAN logs using Syslog Utility, 5 minutes, full LTE reconnect cycle

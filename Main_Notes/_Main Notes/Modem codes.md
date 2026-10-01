@@ -1,0 +1,6 @@
+
+The number of the modem code indicates the revision number. The higher the number the more recent the modem code. Typically newer releases of modem codes will include improvements to issues which have been identified which might relate to interoperability / compatibility with different types of equipment that might be used in different networks around the world. Some modem codes are specifically recommended for certain regions. This would be because the mode has been specifically tested in the region (often in cooperation with the local network operator in that country). 
+
+In the UK, the recommended modem code is 8D1B17 which is the modem code which went through Openreach's modem conformance testing. In AUS the recommended mode code is 8D1917
+
+There aren't any moded codes which are specifically tweaked for poor lines. We would expect the 8D1B17 modem code to be able to obtain sync, but if it doesn't (as you're seeing in this case) we'd typically suggest to use the very latest modem code (which would include all improvements). The firmware MDM5 has the latest modem code (8D1F17_8D1011)

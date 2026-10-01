@@ -1,0 +1,67 @@
+2860
+
+peter.slack@orbital-it.com
+
+188 seconds
+
+IPsec Ike 
+
+|                     |                                                                                                                                                                                                      |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-09-19 12:15:32 | ## IKEv2 DBG : Process Packet : can't find Handler                                                                                                                                                   |
+| 2025-09-19 12:15:32 | ## IKEv2 DBG : Recv IKEv2_CREATE_CHILD_SA[36] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                             |
+| 2025-09-19 12:15:02 | ## IKEv2 DBG : Process Packet : Without default dial-in preshared key, dial-in function is disable for dynamic ip client                                                                             |
+| 2025-09-19 12:15:02 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Initiator                                                                                                     |
+| 2025-09-19 12:15:01 | ## IKEv2 DBG : Process Packet : can't find Handler                                                                                                                                                   |
+| 2025-09-19 12:15:01 | ## IKEv2 DBG : Recv IKEv2_CREATE_CHILD_SA[36] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                             |
+| 2025-09-19 12:14:45 | ## IKEv2 DBG : Process Packet : can't find Handler                                                                                                                                                   |
+| 2025-09-19 12:14:45 | ## IKEv2 DBG : Recv IKEv2_CREATE_CHILD_SA[36] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                             |
+| 2025-09-19 12:14:37 | ## IKEv2 DBG : Process Packet : can't find Handler                                                                                                                                                   |
+| 2025-09-19 12:14:37 | ## IKEv2 DBG : Recv IKEv2_CREATE_CHILD_SA[36] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                             |
+| 2025-09-19 12:14:34 | ## IKEv2 DBG : Process Packet : can't find Handler                                                                                                                                                   |
+| 2025-09-19 12:14:34 | ## IKEv2 DBG : Recv IKEv2_CREATE_CHILD_SA[36] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                             |
+| 2025-09-19 12:14:32 | ## IKEv2 DBG : Process Packet : can't find Handler                                                                                                                                                   |
+| 2025-09-19 12:14:32 | ## IKEv2 DBG : Recv IKEv2_CREATE_CHILD_SA[36] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                             |
+| 2025-09-19 12:14:31 | ## IKEv2 DBG : Process Packet : Without default dial-in preshared key, dial-in function is disable for dynamic ip client                                                                             |
+| 2025-09-19 12:14:31 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Initiator                                                                                                     |
+| 2025-09-19 12:14:15 | ## IKEv2 DBG : Process Packet : Without default dial-in preshared key, dial-in function is disable for dynamic ip client                                                                             |
+| 2025-09-19 12:14:15 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Initiator                                                                                                     |
+| 2025-09-19 12:14:08 | ## IKEv2 DBG : Process Packet : Without default dial-in preshared key, dial-in function is disable for dynamic ip client                                                                             |
+| 2025-09-19 12:14:08 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Initiator                                                                                                     |
+| 2025-09-19 12:14:07 | [L2L][UP][IPsec][@3:2025Acesur to 157.133.64.7]                                                                                                                                                      |
+| 2025-09-19 12:14:07 | Delete exist flowstate of static route AC1E0000/FFFFFF00 ...                                                                                                                                         |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Process Packet : #2813 CHILD SA Established, REPLACE after 2250 seconds                                                                                                               |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA inR2 : Find profile[2] 2025Acesur [10.0.110.0/24--172.30.0.0/24] match traffic selector type IKEv2_TS_IPV4_ADDR_RANGE tsi[10.0.110.0:10.0.110.255] tsr[172.30.0.0:172.30.0.255] |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA inR2 : Receive IKEv2 Notify IKEv2_NON_FIRST_FRAGMENTS_ALSO[16395]                                                                                                               |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA inR2 : Receive IKEv2 Notify IKEv2_ESP_TFC_PADDING_NOT_SUPPORTED[16394]                                                                                                          |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA inR2 : Receive IKEv2 Notify IKEv2_SET_WINDOW_SIZE[16385]                                                                                                                        |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Received IKEv2 Notify IKEv2_NON_FIRST_FRAGMENTS_ALSO[16395]                                                                                                                           |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Received IKEv2 Notify IKEv2_ESP_TFC_PADDING_NOT_SUPPORTED[16394]                                                                                                                      |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Received IKEv2 Notify IKEv2_SET_WINDOW_SIZE[16385]                                                                                                                                    |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Recv IKEv2_AUTH[35] Reply msgid 1 from 157.133.64.7, Peer is IKEv2 Responder                                                                                                          |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : #2812 IKE SA Established, REPLACE after 59400 seconds                                                                                                                                 |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA inR1_outI2 : Create CHILD SA #2813, IKE SA is #2812                                                                                                                             |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA inR1_outI2 : Receive Notify IKEv2_NAT_DETECTION_DESTINATION_IP[16389]                                                                                                           |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA inR1_outI2 : Receive Notify IKEv2_NAT_DETECTION_SOURCE_IP[16388]                                                                                                                |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Received IKEv2 Notify IKEv2_NAT_DETECTION_DESTINATION_IP[16389]                                                                                                                       |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Received IKEv2 Notify IKEv2_NAT_DETECTION_SOURCE_IP[16388]                                                                                                                            |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Reply msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                                       |
+| 2025-09-19 12:14:07 | ## IKEv2 DBG : IKESA outI1 : Create IKE SA #2812 Profile Index 3                                                                                                                                     |
+| 2025-09-19 12:14:07 | Dialing Node3 (2025Acesur) : 157.133.64.7                                                                                                                                                            |
+| 2025-09-19 12:14:06 | IKE_RELEASE VPN : L2L Dial-out, Profile index = 3, Name = 2025Acesur, ifno = 20                                                                                                                      |
+| 2025-09-19 12:14:06 | ## IKEv2 DBG : INFORMATIONAL OUT : Sending IKEv2 Delete IKE SA request, deleting #2810                                                                                                               |
+| 2025-09-19 12:14:06 | ## IKEv2 DBG : #2810 I am MSG_INITIATOR, lost previous msgid ack 11, re-send msgid 11[2]                                                                                                             |
+| 2025-09-19 12:14:06 | Delete exist flowstate of VPN ifno: 20 ....                                                                                                                                                          |
+| 2025-09-19 12:14:06 | [L2L][DOWN][IPsec][@3:2025Acesur to 157.133.64.7](total time connected : 0 hours 2 minutes 53 seconds)                                                                                               |
+| 2025-09-19 12:14:06 | ## IKEv2 DBG : IKE SA #2810:STATE_IKESA_I is going to be deleted, delete its CHILD SA #2811:STATE_CHILDSA_I                                                                                          |
+| 2025-09-19 12:14:06 | DPD timeout and expire SA...ifno=20                                                                                                                                                                  |
+| 2025-09-19 12:14:04 | ## IKEv2 DBG : Process Packet : Without default dial-in preshared key, dial-in function is disable for dynamic ip client                                                                             |
+| 2025-09-19 12:14:04 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Initiator                                                                                                     |
+| 2025-09-19 12:14:02 | ## IKEv2 DBG : Process Packet : Without default dial-in preshared key, dial-in function is disable for dynamic ip client                                                                             |
+| 2025-09-19 12:14:02 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Initiator                                                                                                     |
+| 2025-09-19 12:13:58 | ## IKEv2 DBG : #2810 I am MSG_INITIATOR, lost previous msgid ack 11, re-send msgid 11[1]                                                                                                             |
+| 2025-09-19 12:13:51 | DPD timeout...ifno=20, timeouts:1                                                                                                                                                                    |
+| 2025-09-19 12:13:35 | ## IKEv2 DBG : Process Packet : can't find Handler                                                                                                                                                   |
+| 2025-09-19 12:13:35 | ## IKEv2 DBG : Recv IKEv2_CREATE_CHILD_SA[36] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Responder                                                                                             |
+| 2025-09-19 12:13:03 | ## IKEv2 DBG : Process Packet : Without default dial-in preshared key, dial-in function is disable for dynamic ip client                                                                             |
+| 2025-09-19 12:13:03 | ## IKEv2 DBG : Recv IKEv2_SA_INIT[34] Request msgid 0 from 157.133.64.7, Peer is IKEv2 Initiator                                                                                                     |

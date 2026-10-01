@@ -1,0 +1,1 @@
+Don't need hardware acceleration until 500mbs - 1000mbs

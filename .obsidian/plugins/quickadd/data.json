@@ -19,7 +19,7 @@
               "name": "Untitled Template Choice",
               "type": "Template",
               "command": false,
-              "templatePath": "Networking_Notes/networking_sync/Templates/Firmware Lookup.md",
+              "templatePath": "Templates/Firmware Lookup.md",
               "fileNameFormat": {
                 "enabled": false,
                 "format": ""
@@ -49,7 +49,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Templates",
   "announceUpdates": true,
   "version": "2.6.0",
   "globalVariables": {},

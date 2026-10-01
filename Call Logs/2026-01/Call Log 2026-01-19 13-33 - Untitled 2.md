@@ -1,0 +1,16 @@
+### Ticket Number:
+
+---
+Email: mail@zakc.com 
+Device: 166
+Firmware: 
+
+---
+Initial Query: Zach
+
+
+
+
+---
+<span style="color:#4caf50;">Created on 19-01-2026 13-33</span>
+---

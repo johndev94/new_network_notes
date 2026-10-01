@@ -1,0 +1,1 @@
+The warranty covers all hardware inside the retail box. That includes PSU, Aerials, Router, mounting kits etc.

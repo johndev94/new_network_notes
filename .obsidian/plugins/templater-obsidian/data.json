@@ -1,12 +1,7 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
-  "templates_pairs": [
-    [
-      "",
-      ""
-    ]
-  ],
+  "templates_folder": "Templates",
+  "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
@@ -15,12 +10,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Networking_Notes/networking_sync/Call Logs",
-      "template": "Networking_Notes/networking_sync/Templates/Calls.md"
-    },
-    {
-      "folder": "",
-      "template": ""
+      "folder": "Call Logs",
+      "template": "Templates/Calls.md"
     }
   ],
   "enable_file_templates": false,
@@ -32,11 +23,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
-  "startup_templates": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
   "intellisense_render": 1
 }
