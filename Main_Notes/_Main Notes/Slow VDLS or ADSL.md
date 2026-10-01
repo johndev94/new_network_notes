@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Mobile and WAN"
+---
+
 Thank you for contacting DrayTek Technical Support.
 
 To assist you further, could you please confirm the following:

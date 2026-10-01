@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Mobile and WAN"
+---
+
 #### Part 1
   
 Thank you for contacting DrayTek Technical Support.  

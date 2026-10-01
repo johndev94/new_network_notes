@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 Thank you for contacting DrayTek Technical Support. 
 
 To view all devices in list form and identify which ones have a firmware upgrade available, one approach is to generate a report within ACS.

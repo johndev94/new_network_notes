@@ -31,3 +31,9 @@ The Git history also preserves the original tracked files. The original firmware
 
 ## Imported folders — 1 October 2026
 Main_Notes now holds the networking reference collection. Dated imported calls are in Call Logs by month, and older untitled calls are in Archive/Legacy Call Logs. All screenshots are in Attachments. Study and AI project material have their own indexes linked from Home. See [[Maintenance/Import Cleanup Report]] for remaining missing files and the new backup.
+
+## Support workflow — 1 October 2026
+Open [[Dashboards/Support Dashboard]] for open work, due follow-ups, and responses grouped by topic. New calls have editable status, follow_up, device, and ticket properties. Historical call status has not been inferred. Use the Daily notes command for a daily journal and Templates/Solution.md to capture confirmed fixes in Solutions. Response topics are inferred from filenames and can be edited. No external accounts or extra plugins are required.
+
+Backup before these improvements:
+C:\Users\Admin\Documents\New_Notes-before-workflow-improvements-20261001-132254.zip

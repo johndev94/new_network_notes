@@ -45,6 +45,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "ffe7aa7a-db8e-4cbd-a62c-bc3f5231a1e5",
+      "name": "Format bug report",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Format bug report",
+        "id": "b3acea37-76ee-41d5-bda0-2a4adcc8bc94",
+        "commands": [
+          {
+            "id": "47c9b37e-49e6-4f56-ae7d-a83e6d7f4f99",
+            "name": "Format bug report",
+            "type": "UserScript",
+            "path": "scripts/format-bug-report.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

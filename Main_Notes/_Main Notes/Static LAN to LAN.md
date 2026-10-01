@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Hi John,  
    
 I managed to get this working, setup below:  

@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Firmware and recovery"
+---
+
   
 Thank you for sending over the invoice.  
   

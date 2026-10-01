@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Could you send over the full syslog from the router, either using the DrayTek Syslog Utility or USB syslogs.
 
 [https://www.draytek.com/support/knowledge-base/5746](https://www.draytek.com/support/knowledge-base/5746)

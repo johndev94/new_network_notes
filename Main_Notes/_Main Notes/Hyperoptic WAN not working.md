@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Mobile and WAN"
+---
+
 
 Try cloning the MAC address of the supplied router to the WAN details page
 

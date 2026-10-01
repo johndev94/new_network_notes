@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Disabled Hardware acceleration
 Enable Spoofing
 Enable IGMP Fast Leave and UPnP under application

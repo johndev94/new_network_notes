@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Firmware and recovery"
+---
+
 Just to be clear on this, I wouldn’t recommend doing it.
 
 The router CFG file is a binary file, so it can’t be created or reliably modified using AI or any external tools. There isn’t a supported or stable way to inject a full CFG configuration programmatically.

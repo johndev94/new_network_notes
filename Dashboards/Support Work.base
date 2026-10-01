@@ -1,0 +1,85 @@
+{
+  "filters": {
+    "and": [
+      "file.ext == \"md\"",
+      "note.note_type == \"call\" || note.note_type == \"ticket\""
+    ]
+  },
+  "properties": {
+    "note.follow_up": {
+      "displayName": "Follow-up date"
+    },
+    "note.device": {
+      "displayName": "Device"
+    },
+    "note.status": {
+      "displayName": "Status"
+    }
+  },
+  "views": [
+    {
+      "type": "table",
+      "name": "Open work",
+      "filters": {
+        "or": [
+          "note.status == \"open\"",
+          "note.status == \"waiting\""
+        ]
+      },
+      "order": [
+        "file.name",
+        "note.status",
+        "note.follow_up",
+        "note.device",
+        "note.ticket"
+      ]
+    },
+    {
+      "type": "table",
+      "name": "Due follow-ups",
+      "filters": {
+        "and": [
+          "note.follow_up != null",
+          "note.follow_up != \"\"",
+          "date(note.follow_up) <= today()",
+          "note.status != \"done\"",
+          "note.status != \"resolved\""
+        ]
+      },
+      "order": [
+        "file.name",
+        "note.follow_up",
+        "note.status",
+        "note.device"
+      ]
+    },
+    {
+      "type": "table",
+      "name": "Completed",
+      "filters": {
+        "or": [
+          "note.status == \"done\"",
+          "note.status == \"resolved\""
+        ]
+      },
+      "order": [
+        "file.name",
+        "note.call_date",
+        "note.device",
+        "note.ticket"
+      ]
+    },
+    {
+      "type": "table",
+      "name": "All tracked work",
+      "order": [
+        "file.name",
+        "note.status",
+        "note.follow_up",
+        "note.call_date",
+        "note.device",
+        "note.ticket"
+      ]
+    }
+  ]
+}

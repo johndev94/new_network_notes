@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Firmware and recovery"
+---
+
 
 First, unplug the switch from any network it is currently connected to. Then connect a PC directly to one of the switch ports and set the PC with a static IP address in the `192.168.1.x/24` range, for example `192.168.1.10`.
 

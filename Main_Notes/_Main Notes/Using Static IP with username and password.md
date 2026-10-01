@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
   
 To configure the router for use with the static IP details provided by Vaioni, you’ll need to set up a PPPoE connection using the credentials they’ve supplied, and then manually assign the static IP.  
   

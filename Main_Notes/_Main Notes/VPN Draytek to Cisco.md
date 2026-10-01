@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "VPN and remote access"
+---
+
 
 Be sure to here all the setting manually, don't leave anything on auto. Get documentation from the cisco crew.
 

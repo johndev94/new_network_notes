@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Good Morning/Afternoon Callum Hipkiss
 
 If your router is experiencing a reboot, then you may need to check the following  

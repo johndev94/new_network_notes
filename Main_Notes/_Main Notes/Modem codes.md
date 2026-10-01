@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Firmware and recovery"
+---
+
 
 The number of the modem code indicates the revision number. The higher the number the more recent the modem code. Typically newer releases of modem codes will include improvements to issues which have been identified which might relate to interoperability / compatibility with different types of equipment that might be used in different networks around the world. Some modem codes are specifically recommended for certain regions. This would be because the mode has been specifically tested in the region (often in cooperation with the local network operator in that country). 
 

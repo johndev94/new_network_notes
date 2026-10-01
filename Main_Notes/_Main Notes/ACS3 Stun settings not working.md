@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 
 Try put in the WAN IP in server address 
 

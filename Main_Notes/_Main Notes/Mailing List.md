@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Support and returns"
+---
+
 Please see below advise on how to handle any questions if a customer asks if they’re on the mailing list. People ask this from time to time because of wanting to receive any security improvements.
 
 **For dealers:** The support team should ask them to check the MyDrayTek section on the Partner Portal (see attached screenshot). If a dealer is not registered, suggest that they register.

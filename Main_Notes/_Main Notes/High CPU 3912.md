@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Switching and hardware"
+---
+
 https://cmsdistribution5078.zendesk.com/agent/tickets/190406
 
 It seems that Docker gets confused sometimes with the overlay2 filesystem it uses and the solution seems to be to rebuild the Docker environment on the 3912s.  The short version of doing this is:

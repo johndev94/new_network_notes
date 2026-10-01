@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 Have you received the email regarding the additional IP address that needs to be added to the ACL list on your router? Sometimes an incorrectly configured ACL list can cause issues with false connection alerts. 
 
 Please add the following IP's to your ACL if you are using this:

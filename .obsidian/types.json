@@ -1,0 +1,13 @@
+{
+  "types": {
+    "note_type": "text",
+    "topic": "text",
+    "status": "text",
+    "call_date": "date",
+    "call_time": "text",
+    "follow_up": "date",
+    "timezone": "text",
+    "device": "text",
+    "ticket": "text"
+  }
+}

@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Support and returns"
+---
+
 ### Follow up 1 - 24 hours
 
 How are you.

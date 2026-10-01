@@ -1,0 +1,3 @@
+NTP - UDP 123
+SNMP - UDP 161
+Syslog - UDP 514

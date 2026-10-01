@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "VPN and remote access"
+---
+
 Cant find VPPP driver SSL VPN
 
 ![[Attachments/Pasted image 20250610160011.png]]

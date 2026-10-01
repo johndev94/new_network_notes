@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Can you collect the console logs and send them on for a review. I will leave instructions below.
 
   

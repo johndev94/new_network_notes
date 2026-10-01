@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 Activate DrayDDNS  
 
 You can activate DrayDDNS from MyVigor Service Status  
@@ -34,4 +39,4 @@ If this is the case you need to activate from Applications>>DDNS
 
 4. Vigor router will contact MyVigor server, then retrieve the DrayDDNS license as well as the domain name then create the DDNS profile automatically.  
 
-Go to Applications >> Dynamic DNS Setup page to make sure the router has created the DDNS profile. (Note: If the router did not get the domain after the license activation, it may be due to the router did not communicate with MyVigor server yet. You may reboot the router to trigger the process.) 
+Go to Applications >> Dynamic DNS Setup page to make sure the router has created the DDNS profile. (Note: If the router did not get the domain after the license activation, it may be due to the router did not communicate with MyVigor server yet. You may reboot the router to trigger the process.)

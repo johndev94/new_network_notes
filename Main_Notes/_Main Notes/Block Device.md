@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Security and certificates"
+---
+
 Thank you for contacting DrayTek Technical Support.  
   
   

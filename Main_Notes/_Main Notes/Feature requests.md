@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Support and returns"
+---
+
 
 https://dq.draytek.co.uk/scp/tickets.php?id=198387&tfilter=&tn=#tab3
 

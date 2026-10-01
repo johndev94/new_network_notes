@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Wireless and mesh"
+---
+
 The customer was unable to access their VigorAP 918R.
 
 Troubleshooting Steps Taken:355896

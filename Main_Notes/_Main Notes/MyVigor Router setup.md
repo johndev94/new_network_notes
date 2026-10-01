@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 
 
 Note: Vigor 2136ax has to be on firmware 5.3.0 or later

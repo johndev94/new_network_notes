@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 ### Support Response Template – Unable to Change DNS on Router
 
 **Subject:** Unable to Change DNS Servers – Router Still Using ISP DNS

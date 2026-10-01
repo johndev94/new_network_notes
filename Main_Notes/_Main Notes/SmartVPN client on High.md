@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "VPN and remote access"
+---
+
 Thanks for your patience while we investigated this further.  
   
 We’ve confirmed this is a current limitation of the Smart VPN Client. At present, it only supports SHA1 for IPsec and does not support SHA256, which is why the tunnel fails to establish when the router is set to “High” security.  

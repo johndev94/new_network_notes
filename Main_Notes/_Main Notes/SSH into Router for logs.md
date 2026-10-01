@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Thank you for contacting DrayTek Technical Support.
 
   
@@ -25,4 +30,3 @@ MAC: https://www.draytek.co.uk/support/guides/kb-draytek-cli-osx
   
   
 When you obtain the logs, if you could send them as .txt files
-

@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Firmware and recovery"
+---
+
 Hi Martin,
 
 Thank you for replying. 
@@ -21,4 +26,4 @@ https://www.draytek.co.uk/support/downloads/vigor-2927/older-firmware/category/1
 Be sure to take a config backup before you begin this process, and always use the .all file when updating. This is important as it will save your configuration. I would also recommend to take config backups every couple of firmware versions as it is good practice.
 
 
-Let me know if you need any help during the process. 
+Let me know if you need any help during the process.

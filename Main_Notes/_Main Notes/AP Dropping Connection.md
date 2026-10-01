@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Wireless and mesh"
+---
+
 Thank you for calling Technical Support.  
   
 Is it possible for you to collect some logs for us to review when the drops occur? Also, can you confirm if the disconnection only happens during Teams calls, or does it occur at other times as well?  

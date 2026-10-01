@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Security and certificates"
+---
+
 ### DrayOS5
   
 Go to Configuration / Certificates>Local Services and from there you can select the certificate to use for HTTPS

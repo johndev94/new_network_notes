@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Hi James, 
 
 Thank you for contacting DrayTek Technical Support. 

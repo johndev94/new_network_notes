@@ -1,4 +1,8 @@
 {
   "cssTheme": "Dark Moss",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "clear-headings"
+  ],
+  "accentColor": "#9b8ae0"
 }

@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 This Intranet Note is for ACS download Links  
   
 Note that you can use wget to download directly from a linux machine.  

@@ -15,7 +15,7 @@ while (app.vault.getAbstractFileByPath(`${destination}.md`) && `${destination}.m
   destination = `${folder}/${title} (${suffix++})`;
 }
 await tp.file.move(destination);
-tR += `# ${title}\n\nDate: ${date}\nTime: ${time}\nTimezone: Europe/London\n`;
+tR += `---\nnote_type: call\nstatus: open\ncall_date: ${date}\ncall_time: "${time}"\ntimezone: Europe/London\nfollow_up: \ndevice: ""\nticket: ""\n---\n\n# ${title}\n\nDate: ${date}\nTime: ${time}\nTimezone: Europe/London\n`;
 %>
 Customer:
 Ticket:
@@ -27,4 +27,6 @@ Firmware:
 ## Actions taken
 
 ## Follow-up
+Set status and follow_up in the note properties to track this call on [[Dashboards/Support Dashboard|the support dashboard]].
+
 - [ ]

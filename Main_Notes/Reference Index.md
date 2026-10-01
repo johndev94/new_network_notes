@@ -19,11 +19,11 @@
 - [[Main_Notes/Articles/New|New]]
 
 ## Bug Report
-- [[Main_Notes/Bug Report/AP Profile only allows 4 SSIDs|AP Profile only allows 4 SSIDs]]
-- [[Main_Notes/Bug Report/AP SSID|AP SSID]]
-- [[Main_Notes/Bug Report/Sim Card Light|Sim Card Light]]
-- [[Main_Notes/Bug Report/Switch Time Bug|Switch Time Bug]]
-- [[Main_Notes/Bug Report/TR069 password|TR069 password]]
+- [[AP Profile only allows 4 SSIDs|AP Profile only allows 4 SSIDs]]
+- [[AP SSID|AP SSID]]
+- [[Sim Card Light|Sim Card Light]]
+- [[Switch Time Bug|Switch Time Bug]]
+- [[TR069 password|TR069 password]]
 
 ## Central Control
 - [[Main_Notes/Central Control/Central Control|Central Control]]

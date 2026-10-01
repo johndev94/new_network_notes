@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Routers lan mac address + update DQ381220-R
 
 Needs to log into router > My registerstraion https://www.draytek.com/support/knowledge-base/5968 DQ502053

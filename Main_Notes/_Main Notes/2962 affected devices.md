@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 196559 - TFTP successful, after updating problem reoccurred - SWALLOWS for admin account which is using the default ip of 192.168.1.1
 187480 - recovered the router using TFTP and locked up again shortly after (stated the device locks up without config file installed, the engineer then applied the config file and it still locked up) 
 cmsdistribution5078.zendesk.com/agent/tickets/205688

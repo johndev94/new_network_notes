@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 What ACS version are you on 3.x.x?
 
 ![[Attachments/Pasted image 20250912160930.png]]

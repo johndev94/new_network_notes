@@ -1,1 +1,6 @@
+---
+note_type: response
+topic: "Wireless and mesh"
+---
+
 If the router is not giving an IP address it could be because they are using a switch and it does not detect VLAN tags

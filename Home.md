@@ -1,10 +1,9 @@
 # Home
 
-## Support work
-- [[Inbox/Support Follow-ups|Support follow-ups]]
-- [[Tickets/TS567080|TS567080]]
+## Work
+- [[Dashboards/Support Dashboard|Support dashboard — open work and follow-ups]]
+- [[Main_Notes/_Main Notes/Responses|Support responses by topic]]
 - [[Call Logs/Call Index|Call logs by month]]
-- [[Responses|Support response library]]
 
 ## Reference and projects
 - [[Main_Notes/Reference Index|Networking reference]]
@@ -13,8 +12,13 @@
 - [[Attachment Index|Screenshot index]]
 
 ## Templates and maintenance
+- [[Templates/Calls|New call template]]
 - [[Templates/Ticket|Ticket template]]
-- [[Templates/Calls|Call template]]
+- [[Templates/Solution|Confirmed solution template]]
+- [[Templates/Daily Note|Daily note template]]
 - [[Templates/Firmware Lookup|Firmware lookup]]
 - [[Vault Guide|Vault guide]]
 - [[Maintenance/Import Cleanup Report|Import cleanup and missing files]]
+
+## Bug reports
+- [[Maintenance/Bug Report Formatter|Format a bug report with OpenAI]]

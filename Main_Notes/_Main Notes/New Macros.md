@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Updating router firmware - config backup use the .all file
 
 MyVigor + ACS

@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 ![[Pasted image 20251112160510.png]]
 Disregard WCF option that has been resolved
 

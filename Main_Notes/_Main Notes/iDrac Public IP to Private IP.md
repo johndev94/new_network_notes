@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Switching and hardware"
+---
+
 
 Fixed issue by enabling settings on iDrac device.
 

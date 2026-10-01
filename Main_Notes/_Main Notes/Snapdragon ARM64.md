@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "General troubleshooting"
+---
+
 Theses no announcement for support
 
 SSL wont work and every other protocol will.

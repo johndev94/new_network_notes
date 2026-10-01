@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 Hi Steve,
 
 Thank you for contacting DrayTek Technical Support.

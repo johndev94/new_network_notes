@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Support and returns"
+---
+
 VigorCare 
 
  Core VigorCare Benefits 

@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "VPN and remote access"
+---
+
 https://www.draytek.com/support/knowledge-base/7462
 
 Goto: 46:00

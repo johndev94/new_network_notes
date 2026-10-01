@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Wireless and mesh"
+---
+
   
 Can you move the APs closer to the router and test, is the 2.4Ghz enabled? have you tested with an ethernet uplink to see how it compares?  
   

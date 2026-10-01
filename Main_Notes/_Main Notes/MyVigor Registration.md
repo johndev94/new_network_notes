@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 How to register a device to MyVigor  
 
 1. Before the registration, make sure the router is running on the latest firmware. 
@@ -39,6 +44,3 @@ Check and update the router's firmware to the latest version.
 - If the default rule is set to block, create a firewall filter that allows access to MyVigor using its IP address.
 
 6. If none of the above resolves the issue, provide the LAN MAC address, serial number of the router and your MyVigor username.
-
-
-

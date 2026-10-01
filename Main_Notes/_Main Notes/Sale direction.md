@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Support and returns"
+---
+
 Some clarity on direction to go if you get a sales lead : 
 
 If the customer is a End User Consumer or End User Business then we can direct them to online resellers

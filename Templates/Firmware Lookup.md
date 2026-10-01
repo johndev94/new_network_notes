@@ -10,10 +10,13 @@ const content = tp.file.content;
 
 // Find a line starting with "Device:" or "Model:"
 const lines = content.split(/\r?\n/);
-let candidate = lines.find(l => /^\s*(Device|Model)\s*:/i.test(l)) || "";
-
+// Skip empty properties and accept quoted YAML values or inline fields.
 // Keep model suffixes so compatibility can be checked (e.g. 3912S).
-let match = candidate.split(":").slice(1).join(":").match(/^\s*(?:DrayTek\s*)?(?:Vigor\s*)?(\d{3,5}[a-z0-9+]*)(?=\s|$)/i);
+let match = lines
+  .filter(l => /^\s*(Device|Model)\s*:/i.test(l))
+  .map(l => l.split(":").slice(1).join(":"))
+  .map(value => value.match(/^\s*["']?(?:DrayTek\s*)?(?:Vigor\s*)?(\d{3,5}[a-z0-9+]*)(?=\s|["']|$)/i))
+  .find(Boolean);
 
 if (!match) {
   tR += "⚠️ No model number found on a 'Device:' or 'Model:' line.\n";

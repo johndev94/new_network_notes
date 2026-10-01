@@ -12,6 +12,10 @@
     {
       "folder": "Call Logs",
       "template": "Templates/Calls.md"
+    },
+    {
+      "folder": "Bug Report",
+      "template": "Templates/Bug Report.md"
     }
   ],
   "enable_file_templates": false,

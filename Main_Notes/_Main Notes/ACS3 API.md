@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 API is not enabled on cloud servers.
 
 For self hosted cusotmers the API documentation is packaged with VigorACS 3.4.0 and later.

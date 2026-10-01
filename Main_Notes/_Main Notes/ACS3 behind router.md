@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 Can you enable your STUN settings and in the server address, put in 'c2.draytek.co.uk'  
 Monitor to see if this makes any difference for you.
 

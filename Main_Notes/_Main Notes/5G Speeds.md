@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Mobile and WAN"
+---
+
 You've mentioned it's a 4G/5G SIM that you are using, I'll provide our official specs below, these are the data rates that the product can reach, this will be different based on whether you're using a 5G SA or NSA SIM, so you'll need to check your contact to confirm which type of SIM you have:  
    
 5G Max Data Rates:  

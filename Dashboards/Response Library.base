@@ -1,0 +1,30 @@
+{
+  "filters": {
+    "and": [
+      "file.ext == \"md\"",
+      "note.note_type == \"response\""
+    ]
+  },
+  "views": [
+    {
+      "type": "table",
+      "name": "By topic",
+      "groupBy": {
+        "property": "note.topic",
+        "direction": "ASC"
+      },
+      "order": [
+        "file.name",
+        "note.topic"
+      ]
+    },
+    {
+      "type": "table",
+      "name": "All responses",
+      "order": [
+        "file.name",
+        "note.topic"
+      ]
+    }
+  ]
+}

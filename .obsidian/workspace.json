@@ -6,7 +6,7 @@
       {
         "id": "42b507c169f1a824",
         "type": "tabs",
-        "dimension": 70.01499250374813,
+        "dimension": 87.31769181991123,
         "children": [
           {
             "id": "ab7e2cd667310d3f",
@@ -14,20 +14,119 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Bug Report/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d2b47d67c22d9447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Report/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "60f870ee0ea48f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Report/AP SSID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AP SSID"
+            }
+          },
+          {
+            "id": "d1d52adcb04db408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Report/AP Profile only allows 4 SSIDs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AP Profile only allows 4 SSIDs"
+            }
+          },
+          {
+            "id": "4e0847431aa56d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Report/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "02b31f7d367511ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Report/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "08233367cbd35587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Report/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "5acb1ae17e91dead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Report Drafts/[1062C-962C][5.1.1][UK][John] Cross-SSID Client Communication Fails on VigorAP Firmware 5.1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "[1062C-962C][5.1.1][UK][John] Cross-SSID Client Communication Fails on VigorAP Firmware 5.1.1"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "f4876e48bd3c3b4b",
         "type": "tabs",
-        "dimension": 29.985007496251875,
+        "dimension": 12.682308180088775,
         "children": [
           {
             "id": "16f965f8b52c5a7a",
@@ -176,6 +275,20 @@
               "icon": "lucide-list",
               "title": "Outline of Home"
             }
+          },
+          {
+            "id": "e87debbb12f1f3a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 3
@@ -197,44 +310,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71744a49fa72360e",
+  "active": "5acb1ae17e91dead",
   "lastOpenFiles": [
-    "Attachment Index.md",
-    "Maintenance/Import Cleanup Report.md",
-    "Main_Notes/TODO List.md",
-    "Main_Notes/Static Route Configuration.md",
-    "Main_Notes/Static NAT.md",
-    "Main_Notes/Reference Index.md",
-    "Main_Notes/ARP.md",
-    "Main_Notes/Notes.md",
-    "Main_Notes/Network+.md",
-    "Main_Notes/Control Internet Access.md",
-    "Main_Notes/Wireless/Fast Transition Roaming 802.11r.md",
-    "Main_Notes/Wireless/Build a Mesh Network by using Wired connection.md",
-    "Main_Notes/Switch/VLAN in Switch via Central Management.md",
-    "Main_Notes/Switch/Switch.md",
-    "Main_Notes/Security/Best Security Practices.md",
-    "Main_Notes/NAT/CGNAT Info.md",
-    "Main_Notes/Logs/Collect Logs with Telnet.md",
-    "Main_Notes/Logs/Firewall - DNS.md",
-    "Inbox/Support Follow-ups.md",
-    "Inbox/Imported Contact.md",
-    "Call Logs/2026-10/Call Log 2026-10-01 12-53-32.md",
-    "Call Logs/2026-10",
-    "Maintenance/Link Audit Before Cleanup.json",
-    "Archive/Empty Imported Folders/Main_Notes/Templates",
-    "Archive/Empty Imported Folders/Main_Notes/Old Call logs",
-    "Archive/Empty Imported Folders/Main_Notes/Images",
-    "Archive/Empty Imported Folders/Main_Notes/Call Logs",
-    "Archive/Empty Imported Folders/Call Logs/Call Logs",
-    "Archive/Empty Imported Folders/Main_Notes",
-    "Archive/Empty Imported Folders/Call Logs",
-    "Archive/Empty Imported Folders",
-    "Call Logs/Undated/Untitled.md",
-    "Call Logs/Undated/Calls Undated.md",
-    "Call Logs/Call Index.md",
-    "Call Logs/2025-11/Calls 2025-11.md",
-    "Call Logs/2025-12/Calls 2025-12.md",
+    "Bug Report/Untitled 1.md",
+    "Bug Report Drafts/[1062C-962C][5.1.1][UK][John] Cross-SSID Client Communication Fails on VigorAP Firmware 5.1.1.md",
+    "Archive/Bug Report Originals/Untitled 1 - 2026-10-01T15-40-06-054Z.md",
+    "Bug Report Drafts/[1062C-962C][VigorAP firmware 5.1.1][UK][John] Cross-SSID Client Communication Fails on the Same LAN After VigorAP Firmware 5.1.1 Upgrade.md",
+    "Archive/Bug Report Originals/Untitled 1 - 2026-10-01T15-39-28-896Z.md",
+    "Bug Report Drafts/[1062C-962C][5.1.1][UK][John] Cross-SSID Client Communication Fails on the Same LAN with Firmware 5.1.1.md",
+    "Archive/Bug Report Originals/Untitled 1 - 2026-10-01T15-38-51-509Z.md",
+    "Bug Report/Untitled.md",
+    "Bug Report Drafts/[1062C-962C][5.1.1][UK][John] Clients on Different SSIDs in the Same LAN Cannot Communicate.md",
+    "Bug Report Drafts/Cross-SSID Client Communication Fails on the Same LAN in Firmware 5.1.1.md",
+    "Bug Report/AP SSID.md",
+    "Bug Report Drafts/Clients on Different SSIDs in the Same LAN Cannot Communicate.md",
+    "Archive/Bug Report Originals/AP SSID - 2026-10-01T15-20-38-962Z.md",
+    "Archive/Bug Report Originals/Untitled 1 - 2026-10-01T15-17-52-642Z.md",
+    "Bug Report/AP Profile only allows 4 SSIDs.md",
+    "Bug Report/Sim Card Light.md",
+    "Bug Report Drafts/[1062C-962C][5.1.1][UK][John] Wireless Clients on Different SSIDs Cannot Communicate on the Same LAN.md",
+    "Bug Report Drafts/Wireless Clients on Different SSIDs Cannot Communicate on the Same LAN.md",
+    "Archive/Bug Report Drafts Prior Versions/[1062C-962C][5.1.1][UK][John] Wireless Clients on Different SSIDs Cannot Communicate on the Same LAN.md",
+    "Archive/Bug Report Originals/Untitled 1 - 2026-10-01T15-09-32-541Z.md",
+    "Bug Report/TR069 password.md",
+    "Bug Report Drafts/[Vigor 2927AX][4.5.2.1][UK][John] AP-Switch Password Is Not Saved in TR-069 Settings.md",
+    "Archive/Bug Report Originals/TR069 password - 2026-10-01T15-05-07-981Z.md",
+    "Bug Report Drafts/[905-805][1.9.3][UK][John][354097] AP Profile Allows Only Four SSIDs per Wireless Band.md",
+    "Archive/Bug Report Originals/AP Profile only allows 4 SSIDs - 2026-10-01T15-04-24-847Z.md",
+    "Bug Report Drafts/[1062C-962C][5.1.1][UK][John] Cross-SSID Client Communication Fails on the Same LAN.md",
+    "Archive/Bug Report Drafts Prior Versions",
+    "Bug Report Drafts",
+    "Archive/Bug Report Originals",
+    "scripts/tests/bug-report.test.js",
+    "scripts/tests",
+    "scripts/bug-report-settings.json",
+    "scripts/format-bug-report.js",
+    "Solutions",
+    "Daily Notes",
+    "Dashboards/Response Library.base",
     "Attachments/Screenshot 2025-07-29 095044.png",
     "Attachments/Screenshot 2025-05-15 163603.png",
     "Attachments/Screenshot 2025-05-15 163525.png",

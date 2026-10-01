@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 Thank you for contacting DrayTek Technical Support.  
    
 Could you confirm if the devices showing as offline are still able to communicate with ACS, for example are they reporting any data or responding to actions such as reboot or config sync?  

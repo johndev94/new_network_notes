@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 The hardware acceleration parameter you see in ACS is part of the standard TR-069 parameter tree, but in this case, it is redundant and does not affect functionality.  
   
 It appears because the TR-069 data model includes this parameter universally, even for models or firmware where hardware acceleration is not applicable or recommended.  

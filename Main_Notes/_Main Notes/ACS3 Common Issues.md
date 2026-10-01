@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 
 ### Devices appearing as active
 The issue with the devices appear as active even though they are offline. ACS only knows a device is offline if it's failed to connect to it.

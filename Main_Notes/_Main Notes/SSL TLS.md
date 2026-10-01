@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "Security and certificates"
+---
+
 To comply with EN18031, we have changed the default SSL VPN encapsulation from SSL 3.0 to TLS 1.2.
 
 However, the Vigor Router can automatically fall back to SSL 3.0 if the keyword **‘ssl30**’ is included in the LAN-to-LAN profile name or the remote dial-in username. 

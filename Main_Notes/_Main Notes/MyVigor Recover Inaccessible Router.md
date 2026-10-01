@@ -1,3 +1,8 @@
+---
+note_type: response
+topic: "ACS and management"
+---
+
 Guidelines for Recovering a Router Registered to an Inaccessible MyVigor Account 
 
 If a customer cannot access the MyVigor account linked to their router, please follow these steps to verify ownership and assist with recovery: 
