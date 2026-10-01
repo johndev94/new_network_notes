@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "a3e0ea80f6ef2f57",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b507c169f1a824",
+        "type": "tabs",
+        "dimension": 70.01499250374813,
+        "children": [
+          {
+            "id": "ab7e2cd667310d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking_Notes/networking_sync/Responses/ACS Download Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ACS Download Links"
+            }
+          },
+          {
+            "id": "c85d255a90523f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking_Notes/networking_sync/Responses/MyVigor Registration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyVigor Registration"
+            }
+          },
+          {
+            "id": "5f417c74ac2a5fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking_Notes/networking_sync/Call Logs/Call Log 09-09-2026 11-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Call Log 09-09-2026 11-16"
+            }
+          },
+          {
+            "id": "61458ef40d07d62c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251111111627.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251111111627"
+            }
+          },
+          {
+            "id": "bfdd55086667f7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking_Notes/networking_sync/Call Logs/Call Log 12-08-2026 15-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Call Log 12-08-2026 15-20"
+            }
+          },
+          {
+            "id": "8ee42425b65845a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking_Notes/networking_sync/Call Logs/Call Log 20-08-2026 16-58.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Call Log 20-08-2026 16-58"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f4876e48bd3c3b4b",
+        "type": "tabs",
+        "dimension": 29.985007496251875,
+        "children": [
+          {
+            "id": "16f965f8b52c5a7a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c618962e4cb6f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ade5bfc424dd17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71744a49fa72360e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f6f2480171aa80e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "philip",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "220914aaf2483886",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "3d665ab307e3069e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7bce330e45958ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f41e24f39a2c6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled Diagram 1.svg",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "tools",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled Diagram 1"
+            }
+          },
+          {
+            "id": "6edb72ec9ac917a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Networking_Notes/networking_sync/Call Logs/Untitled 307.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 307"
+            }
+          },
+          {
+            "id": "00e7f996400a2510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ccbbc69d5ae4781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networking_Notes/networking_sync/Call Logs/Call Log 14-07-2026 15-07.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Call Log 14-07-2026 15-07"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "71744a49fa72360e",
+  "lastOpenFiles": [
+    "Networking_Notes/V2962_20251014_Leinster-Comms-Room_4326.cfg",
+    "Networking_Notes/Main_Notes/Wireless/Wireless.md",
+    "Networking_Notes/Main_Notes/Wireless/Tips for setting up Mesh network.md",
+    "Networking_Notes/Main_Notes/Wireless/Roaming.md",
+    "Networking_Notes/Main_Notes/Wireless/PMK  Caching.md",
+    "Networking_Notes/Main_Notes/Wireless/Fast Transition Roaming 802.11r.md",
+    "Networking_Notes/Main_Notes/Wireless/Build a Mesh Network by using Wired connection.md",
+    "Networking_Notes/Main_Notes/VPN/VPN.md",
+    "Networking_Notes/Main_Notes/VPN/OpenVPN Dial-In.md",
+    "Networking_Notes/Main_Notes/VPN/IPSec LAN-to-LAN Tutorial.md",
+    "Networking_Notes/Main_Notes/VPN/FTP, PPTP and IPsec VPN PassThrough on DrayTek Routers.md",
+    "Networking_Notes/Main_Notes/VPN/DrayTek LAN-to-LAN IPsec VPN Configuration Guide.md",
+    "Networking_Notes/Main_Notes/Tickets/DD291129.md",
+    "Networking_Notes/Main_Notes/Templates/Firmware Lookup.md",
+    "Networking_Notes/Main_Notes/Templates/code.md",
+    "Networking_Notes/Main_Notes/Templates/Calls.md",
+    "Networking_Notes/Main_Notes/Switch/VLAN in Switch via Central Management.md",
+    "Networking_Notes/Main_Notes/Switch/Switch.md",
+    "Networking_Notes/Main_Notes/Security/Security.md",
+    "Networking_Notes/Main_Notes/Security/Best Security Practices.md",
+    "Networking_Notes/Main_Notes/Old Call logs/Untitled.md",
+    "Networking_Notes/Main_Notes/Old Call logs/Untitled 99.md",
+    "Networking_Notes/Main_Notes/Old Call logs/Untitled 98.md",
+    "Networking_Notes/Main_Notes/Old Call logs/Untitled 97.md",
+    "Networking_Notes/Main_Notes/Old Call logs/Untitled 96.md",
+    "Networking_Notes/Main_Notes/Old Call logs/Untitled 95.md",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-07-29 095044.png",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-05-15 163603.png",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-05-15 163525.png",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-05-15 163450.png",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-05-15 163350.png",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-05-15 163221.png",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-05-15 163122.png",
+    "Networking_Notes/Main_Notes/Images/Screenshot 2025-05-15 163059.png",
+    "Networking_Notes/Main_Notes/Images/Pasted image 20251016091904.png",
+    "Networking_Notes/Main_Notes/Images/Pasted image 20251015165844.png",
+    "Networking_Notes/Main_Notes/Wireless",
+    "Networking_Notes/Main_Notes/VPN",
+    "Networking_Notes/Main_Notes/Tickets",
+    "Networking_Notes/Main_Notes/Templates",
+    "Networking_Notes/Main_Notes/Switch",
+    "Networking_Notes/Main_Notes/Security",
+    "Networking_Notes/Main_Notes/Run through the steps for router la.txt",
+    "Networking_Notes/Main_Notes/Responses",
+    "Networking_Notes/Main_Notes/Old Call logs",
+    "Networking_Notes/Main_Notes/NAT",
+    "Networking_Notes/Notes/Untitled.canvas",
+    "Networking_Notes/Notes/Untitled 2.canvas",
+    "Networking_Notes/Notes/Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
